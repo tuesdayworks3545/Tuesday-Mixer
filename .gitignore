@@ -1,0 +1,11 @@
+# Local build and editor files
+*.pdb
+*.user
+*.suo
+.vs/
+bin/
+obj/
+
+# Windows
+Thumbs.db
+Desktop.ini
